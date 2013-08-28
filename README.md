@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/share-image-in-an
 
 **Screenshot**
 
-![Share Image in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/ShareImage-Tutorial.png)
+![Share Image in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Share-Image-Tutorial-ScreenShots.png)
